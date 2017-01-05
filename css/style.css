@@ -1,0 +1,36 @@
+table {
+  border-color: #fff;
+  margin: 100px auto;
+  height: 900px;
+  width: 700px;
+}
+
+td {
+  height: 100px;
+  width: 100px;
+}
+
+.w {
+  background: #F2F2F2;
+  border: 10px solid #000;
+}
+
+.y {
+  background: #F2D95C;
+  border: 10px solid #000;
+}
+
+.r {
+  background: #F2512E;
+  border: 10px solid #000;
+}
+
+.b {
+  background: #084E8C;
+  border: 10px solid #000;
+}
+
+.k {
+  background: #0c0c0c;
+  border: 10px solid #000;
+}
